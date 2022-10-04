@@ -26,7 +26,7 @@ export default class Login extends Component{
             userId: null,
             verificationCode: null,
             otpStatus: false,
-            photoUrl: 'https://firebasestorage.googleapis.com/v0/b/parisaramitrafirebase.appspot.com/o/TrashItems%2FPMLogo.png?alt=media&token=d0aca8d2-2ff2-434c-86ce-602898571e94' 
+            photoUrl: ""
         }
     }
 
